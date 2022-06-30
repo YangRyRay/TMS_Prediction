@@ -1,0 +1,13 @@
+Packages needed:
+yaml
+h5py
+torchvision
+nibabel
+nn (torch.nn)
+
+
+
+TODO:
+Create local references
+Device override fix
+In/Out from slicer node?
